@@ -2,6 +2,8 @@
 
 I recently designed an interactive **Power BI dashboard** analyzing the career performance of one of the greatest cricketers, Virat Kohli 🏏
 
+Project Link :- https://app.powerbi.com/view?r=eyJrIjoiZmIyYmMyNTctMzg4Yi00YWFhLThjNDYtNGJkNmU4MWM3ZjkwIiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
 🔹 **Key Highlights:**
 • Total Runs: 24K+
 • Matches Played: 516
